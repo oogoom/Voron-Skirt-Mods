@@ -24,7 +24,7 @@
 
 #### Prepare the skirt
 
-The main skirt piece is designed with a built in support.  Once printed, simply take needle nose plyers, grab a sharp, interior corner and rip it out.  Most of it should come out very easily.  Clean up the rest of the bridge strands with tweezers or your fingers if you can.  
+The main skirt piece is designed with a built in support.  Once printed, simply take needle nose pliers, grab a sharp, interior corner and rip it out.  Most of it should come out very easily.  Clean up the rest of the bridge strands with tweezers or your fingers if you can.  
 
 #### Prepare the housing
 Prepare the housing by either inserting the LED strip through the side hole from the outside or threading the wires through the side hole from the inside.  Either way works.  If you're inserting the LEDs in, it's easier to get all the LEDs in first before making the bends.  
