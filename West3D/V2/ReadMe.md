@@ -37,4 +37,16 @@ The housing has printed position "brackets" to help keep the strip in place.  Fo
 
 Insert the diffuser into the skirt, then insert the housing into the back of the skirt.  The pieces are made to fit snugly with a snapfit to keep it secure.  Removal of the housing is easy by squeezing top and bottom and pulling the bottom edge out.
 
-Once assembled, all that's left is to control the LEDs as you like.  ENJOY!
+Once assembled, the logo portion should look like this:
+
+![White Diffuser](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V2/WhiteDiffuser.JPG)
+
+And when lit up, will look like this:
+
+![Light up](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V2/LIT.JPG)
+
+### Optional
+
+Depending on your choice of aesthetics, you can black out the diffuser by adding a 20% car window tint to the front of the diffuser.  The tint will not only black out the diffuser to give a nice uniform look to the skirt, but also add an additional layer of diffusion that makes the colors really POP when lit up.  Below is how it would look with window tint.
+
+![Tinted](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V2/WithTint.JPG)
