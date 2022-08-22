@@ -27,7 +27,7 @@
 The main skirt piece is designed with a built in support.  Once printed, simply take needle nose pliers, grab a sharp, interior corner and rip it out.  Most of it should come out very easily.  Clean up the rest of the bridge strands with tweezers or your fingers if you can.  
 
 #### Prepare the housing
-Prepare the housing by either inserting the LED strip through the side hole from the outside or threading the wires through the side hole from the inside.  Either way works.  If you're inserting the LEDs in, it's easier to get all the LEDs in first before making the bends.  
+Prepare the housing by either inserting the LED strip through the side opening from the outside or threading the wires through the side opening from the inside.  Either way works.  It is not necessary to use adehsives.  If your strip has pre-applied adhesive, it's recommended not to remove the backing, so you can adjust the bends.  You can use the adhesive if you like, but make the bends first.  If you're inserting the LEDs through the opening instead of the wiring, it's easier to get all the LEDs in first before making the bends.  
 
 The housing has printed position "brackets" to help keep the strip in place.  Fold and shape the LED strip as shown in the picture below.  There is a final bracket at the end of the strip to keep it from flopping around.  
 
