@@ -18,7 +18,7 @@
    
 ## LED Skirts Instructions
 
-  LED skirts are designed to be used with standard RGB LED strips (10mm width) with 60 LEDs/m.  Of course, you are free to use whatever LED you can fit inside the house and as many or as few LEDs as you want.  Diffuser piece can be printed in white or translucent filament.  Your choice!  
+  LED skirts are designed to be used with standard RGB LED strips (10mm width) with 60 LEDs/m.  Of course, you are free to use whatever LED you can fit inside the housing and as many or as few LEDs as you want.  Diffuser piece can be printed in white or translucent filament.  Your choice!  
 
 ### Assembly directions
 
