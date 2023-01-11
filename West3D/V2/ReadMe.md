@@ -1,6 +1,6 @@
 ![350 Skirt A LED](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V2/West3DLED.png)
 
-# Custom skirts for Voron V2 printers
+# Custom skirts for Voron V2.4r2 printers
 
 ## Nomenclature
 
