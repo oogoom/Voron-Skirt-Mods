@@ -6,7 +6,7 @@
 
   First three numbers denotes the size. Next is the skirt side, A or B, same as Voron naming.  Next is NonLED or LED.  
 
-  LED types require three files: The skirt file, housing, and diffuser.  Make sure you get the correct sizes so they fit properly.
+  LED types require three files: The skirt file, housing, and diffuser.  Make sure you get the correct sizes so they fit properly.  Housing and diffuser are for the full logo or the condensed logo.  Condensed logo is only for 250 size.
           
 ## Print settings
 
