@@ -16,7 +16,9 @@ The housing is designed and tested for 60/m LED strip that is 10mm wide.  It I c
 2. Slide the wires into the slot as you gently place the LED strip inside the housing as shown in the pictures below.  The bottom side of the strip should touch the bottom.
 3. Connect to your MCU or whatever and light it up!
 
+![LED placement 1](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/DSC_3192.jpg)
 
+![LED palcement 2](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/DSC_3194.jpg)
 
 ## Finish assembly.
 1. Place the diffuser in the skirt.
