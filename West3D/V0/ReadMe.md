@@ -2,7 +2,7 @@
 
 ![v0 skirt](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/DSC_3191.jpg)
 
-Print with Voron settings for best results.
+Print with Voron settings for best results.  Pic above is a chopped down version of the skirt for testing.  
 
 Requires tuned bridging or it won't work.  The built in support prints a bridged platform for everything else to go on.  
 
