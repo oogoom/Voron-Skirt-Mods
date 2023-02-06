@@ -1,4 +1,4 @@
-[v0 skirt](https://github.com/oogoom/Voron-Skirt-Mods/edit/main/West3D/V0/images/DSC_3191.jpg)
+![v0 skirt](https://github.com/oogoom/Voron-Skirt-Mods/edit/main/West3D/V0/images/DSC_3191.jpg)
 
 Print with Voron settings for best results.
 
