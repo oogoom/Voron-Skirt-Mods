@@ -10,7 +10,7 @@
           
 ## Print settings
 
-   2-4 perimeters, 0.4mm forced width... in other words, normal Voron print settings. 
+   2-4 perimeters, 0.4mm forced width... in other words, normal Voron print settings. LED Housing should be printed in a dark filament.  Black or gray works best.  Lighter colors will let the housing glow and in some cases, effect the color reproduction.
    
 ## BOM
 
