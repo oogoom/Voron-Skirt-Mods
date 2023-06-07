@@ -1,6 +1,6 @@
 # West3D themed left side skirt for V0.2
 
-![v0 skirt](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/Front.jpg)
+![v0 skirt](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/Front.JPG)
 
 This is a modified skirt for the Voron V0.2 to include a stylized "3D" of the West3D logo.  Read the instructions carefully!  
 
@@ -8,7 +8,7 @@ IMPORTANT:  In order to use this skirt mod, there must be enough available space
 
 ## Required Printed Parts
 
-![printed parts](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/parts.jpg)
+![printed parts](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/parts.JPG)
 
 - V0_LeftSkirt_3D.stl
 - V0_Diffuser.stl
@@ -31,7 +31,7 @@ Using needle nose pliers or similar, remove the built in support of the skirt.  
 
 You will need 11 LEDs on the strip.  Route them through the housing as shown in the photo below.  Each of the posts are placed to help keep the strip in place and should only hold the strip over unused pads.
 
-![LED routing](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/housing.jpg)
+![LED routing](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/DSC_0038.JPG)
 
 - Install the skirt onto the extrusion by placing the screw into the skirt first, then using a ball end to tighten the screw.  It is a tight fit, but should be fairly easy.  
 - Install the mask over the diffuser and insert it into the skirt using tweezers if you haven't moved your bottom panel.  
