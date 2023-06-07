@@ -13,7 +13,7 @@ IMPORTANT:  In order to use this skirt mod, there must be enough available space
 - V0_LeftSkirt_3D.stl
 - V0_Diffuser.stl
 - V0_Mask.stl
-- V0_Housing.stl
+- V0_Housing.stl (not shown above)
 
 ## Required LEDs
 
