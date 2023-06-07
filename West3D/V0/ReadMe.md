@@ -23,8 +23,11 @@ The LEDs used for this skirt are 2020 WS2812 RGB LEDs on a 2.6mm wide strip.  Th
 
 The skirt prints with a built in support and bridging to form the logo.  For best chance of success, it is recommended that the skirt be printed with FOUR perimeters.  The mask and housing can be printed with at least 2, though 4 is recommended.  Infill percentage should be at least 20%.
 
-IMPORTANT: The diffuser must be printed with ONE perimeter and recommended to be in white for best diffusion.  Translucent might work too but may be too bright or allow LED hot spots.  
-ALSO IMPORTANT:  The housing must be printed in a DARK filament.  Black or gray preferred.  I have not tested all colors, but lighter, brighter colors will likely tint the lights and distort your colors.
+**IMPORTANT:** 
+The diffuser must be printed with ONE perimeter and recommended to be in white for best diffusion.  Translucent might work too but may be too bright or allow LED hot spots.  
+
+**ALSO IMPORTANT:**  
+The housing must be printed in a DARK filament.  Black or gray preferred.  I have not tested all colors, but lighter, brighter colors will likely tint the lights and distort your colors.
 
 ## Installation
 
