@@ -6,6 +6,10 @@ This is a modified skirt for the Voron V0.2 to include a stylized "3D" of the We
 
 IMPORTANT:  In order to use this skirt mod, there must be enough available space behind the skirt and the power supply.  You will need at least 6.5mm of space to install the LED housing without sliding the bottom panel out.  Once installed, you still need at least 3mm of space between the back of the skirt and the PSU.  In most cases, you can achieve this by moving your PSU a bit.  Of course, you can always print everything and see if you have enough space.  It's not much plastic after all.
 
+## UPDATES / CHANGES
+
+- Added V0.2R1 LED Left skirt
+
 ## Required Printed Parts
 
 ![printed parts](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/parts.JPG)
