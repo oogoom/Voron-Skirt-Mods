@@ -23,7 +23,7 @@ IMPORTANT:  In order to use this skirt mod, there must be enough available space
 
 The LEDs used for this skirt are 2020 WS2812 RGB LEDs on a 2.6mm wide strip.  The 148 LEDS per 1100mm is what you want to give you 11 LEDs in the limited space.  The best place to purchase them is off Aliexpress [here](https://www.aliexpress.us/item/3256804268655878.html?spm=a2g0o.order_detail.order_detail_item.3.12c3f19c69yvgm&gatewayAdapt=glo2usa).
 
-# CAUTION - Wiring for these LED strips use unique colors.  Refer to the image below.
+### CAUTION - Wiring for these LED strips use unique colors.  Refer to the image below.
 
 ![LEDWiring](https://github.com/oogoom/Voron-Skirt-Mods/blob/main/West3D/V0/images/wiring.JPG)
 
